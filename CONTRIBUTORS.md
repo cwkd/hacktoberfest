@@ -849,3 +849,8 @@
 - Place: Athens, GA
 - Bio: Student
 - Github: [running-cool](https://github.com/running-cool)
+
+#### Name: [Daniel Chin](https://github.com/cwkd)
+- Place: Singapore
+- Bio: Undergraduate Student at SUTD
+- Github: [cwkd](https://github.com/cwkd)
